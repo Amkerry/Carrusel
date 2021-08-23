@@ -1,2 +1,3 @@
-# Carrusel
-carrusel en Bootstrap
+## Autor 
+*Miriam Ochoa
+*carrusel en Bootstrap
